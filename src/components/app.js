@@ -1,6 +1,6 @@
-import React from 'react';
 import 'materialize-css/dist/css/materialize.min.css';
 import 'materialize-css/dist/js/materialize';
+import React from 'react';
 import { Route } from 'react-router-dom';
 import List from './list'
 import AddItem from './add_item'
